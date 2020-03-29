@@ -1,0 +1,28 @@
+{
+  "name": "houseprojects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/milomacphail/houseProjects.git"
+  },
+  "author": "Milo MacPhail",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/milomacphail/houseProjects/issues"
+  },
+  "homepage": "https://github.com/milomacphail/houseProjects#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consolidate": "^0.15.1",
+    "dust": "^0.3.0",
+    "dustjs-helpers": "^1.7.4",
+    "dustjs-linkedin": "^2.7.5",
+    "express": "^4.17.1",
+    "pg": "^7.18.2"
+  }
+}
